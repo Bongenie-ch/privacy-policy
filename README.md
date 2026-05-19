@@ -8,7 +8,7 @@
 
 <h1>Privacy Policy</h1>
 
-<p><strong>Effective date:</strong> 2026</p>
+<p><strong>Effective date:</strong> 15.05.2026</p>
 
 <h2>1. Data we collect</h2>
 <p>
